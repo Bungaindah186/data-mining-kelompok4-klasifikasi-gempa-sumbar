@@ -1,0 +1,1 @@
+# data-mining-kelompok4-klasifikasi-gempa-sumbar
