@@ -22,7 +22,7 @@ Dosen pengampu: Dr. Yeka Hendriyani, S.Kom., M.Kom.
 
 Repositori ini berisi hasil praktikum **Evaluasi Model Klasifikasi** pada mata kuliah Data Mining, yang mencakup *confusion matrix*, *accuracy*, *precision*, *recall*, dan *F1-score*.
 
-Berbeda dengan dataset sintetis transaksi fraud pada modul, kelompok kami memakai **data gempa bumi BMKG di wilayah Sumatera Barat**. Langkah praktikumnya (Bagian 4.1–4.8 modul) tetap sama.
+kelompok kami memakai **data gempa bumi BMKG di wilayah Sumatera Barat**.
 
 | Modul (fraud) | Proyek ini (gempa) |
 |---|---|
